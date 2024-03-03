@@ -1,4 +1,4 @@
-# python-exception-tasks
+# python-exception-destruction-if-tasks
 Python Задачи на обработку ошибок
 
 ## Задача 1
